@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ndimi_SplashActivity</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
